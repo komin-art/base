@@ -16,25 +16,29 @@ Fonctionnement interne
 
 - Les modes de fonctionnement
 
------ mode maître esclave:
-	Chaque participant se déclare comme maître ou esclave.
-	Le maître est le directeur du projet, il a la vision globale de son projet et dirige les esclaves.
-	Les esclaves mettent leur disponibilité et compétences au service du maître le temps de la session.
-	L'esclave n'a pas le droit de contester une décision du maître, mais il peut bien sûr faire des suggestions.
+### mode maître esclave
 
-	Note: cela peut se traduire sur un site internet par des annonces du genre: directeur de projet cherche esclaves...
-	Deux statuts de profils: directeur projet | esclave
+Chaque participant se déclare comme maître ou esclave.
+Le maître est le directeur du projet, il a la vision globale de son projet et dirige les esclaves.
+Les esclaves mettent leur disponibilité et compétences au service du maître le temps de la session.
+L'esclave n'a pas le droit de contester une décision du maître, mais il peut bien sûr faire des suggestions.
 
-
------ mode pif	 
-	Même principe que maître-esclave, mais le directeur de projet est choisi au hasard.
-	Chaque directeur de projet met son idée dans un bocal.
-	Lorsque tous les participants sont réunis, on tire un papier au début de la session.
-	Le directeur de projet est celui dont le papier a été sélectionné, tous les autres deviennent esclaves.
-	(Si le maître n'a pas besoin de tous les esclaves, il peut les renvoyer chez eux.)
+Note: cela peut se traduire sur un site internet par des annonces du genre: directeur de projet cherche esclaves...
+Deux statuts de profils: directeur projet | esclave
 
 
------ autres....
+### mode pif	 
+
+Même principe que maître-esclave, mais le directeur de projet est choisi au hasard.
+Chaque directeur de projet met son idée dans un bocal.
+Lorsque tous les participants sont réunis, on tire un papier au début de la session.
+Le directeur de projet est celui dont le papier a été sélectionné, tous les autres deviennent esclaves.
+(Si le maître n'a pas besoin de tous les esclaves, il peut les renvoyer chez eux.)
+
+
+### autres
+
+Comme vous voulez.
 
 
 
