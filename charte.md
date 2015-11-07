@@ -46,7 +46,7 @@ La session
 ----------------
 
 C'est une période de travail pendant laquelle les artistes travaillent ensemble.
-Par défaut, une session dure 4 heures, mais elle peut durer moins ou plus, en fonction des disponibilités et motivations
+Par défaut, une session dure entre 1 et 4 heures, mais elle peut durer moins ou plus, en fonction des disponibilités et motivations
 de chacun.
 
 
@@ -94,8 +94,13 @@ Branche spécialisée de Komin > art dont le but est de réaliser des vidéos co
 
 Versions
 ------------------
+
+    
+- 1.1.0 -- 2015-11-07
+
+    - changement de la durée de session par défaut
     
 - 1.0.0 -- 2015-11-05
 
-    - initial commit
+    - toute première version
 
